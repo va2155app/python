@@ -1,0 +1,6 @@
+7/20~7/31 於台大資訊工程班 練習python基礎 (如for while 迴圈，定義涵式，建立類別，設定module)
+
+8/3 練習git 與github(參考視頻https://www.youtube.com/watch?v=iX_T7EK-Dk0) 
+    
+    python 網路爬蟲module 練習(beautifulsoup4 )
+8/
