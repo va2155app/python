@@ -3,4 +3,6 @@
 8/3 練習git 與github(參考視頻https://www.youtube.com/watch?v=iX_T7EK-Dk0) 
     
     python 網路爬蟲module 練習(beautifulsoup4 )
-8/
+
+8/4 練習從https://tw.global.nba.com/playerindex/ 抓取數據，但還無法 抓取特定數據
+先從html 還有bs4 的基礎觀念 學起
