@@ -6,3 +6,5 @@
 
 8/4 練習從https://tw.global.nba.com/playerindex/ 抓取數據，但還無法 抓取特定數據
 先從html 還有bs4 的基礎觀念 學起
+
+8/5 bs4觀念已經熟練 可以抓取到Nba那些球隊，有哪些隊員。
