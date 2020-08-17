@@ -18,3 +18,10 @@
 
 
 8/13 今天花了點時間研究朋友傳給我的titan，了解關於"資料分析"相關的程式。接下來會以資料分析為練習主要。
+
+
+8/16 		MSE（Mean-Square Error），中文稱為均方誤差
+  	1.是各測量值誤差的平方和取平均值的平方根（均方根誤差的平方）
+	2.可以評價數據的變化程度
+	3.數學特性很好，使計算梯度變得更容易
+練習參考:https://www.kaggle.com/jeffd23/scikit-learn-ml-from-start-to-finish
