@@ -1,0 +1,38 @@
+
+Logging started 2020-09-24 14:22:29.292 
+
+2020-09-24 14:22:29.293 Always, OpenZwave Version 1.4.3428 Starting Up
+2020-09-24 14:22:29.368 Info, Setting Up Provided Network Key for Secure Communications
+2020-09-24 14:22:29.368 Warning, Failed - Network Key Not Set
+2020-09-24 14:22:29.368 Info, mgr,     Added driver for controller \\.\/dev/ttyACM0
+2020-09-24 14:22:29.369 Info,   Opening controller \\.\/dev/ttyACM0
+2020-09-24 14:22:29.369 Info,     Trying to open serial port \\.\/dev/ttyACM0 (Attempt 1)
+2020-09-24 14:22:29.369 Error, ERROR: Cannot open serial port \\.\/dev/ttyACM0. Error code 3
+
+2020-09-24 14:22:29.369 Info, ERROR: Failed to open serial port \\.\/dev/ttyACM0 (attempt 1)
+2020-09-24 14:22:29.370 Warning, WARNING: Failed to init the controller (attempt 0)
+2020-09-24 14:22:34.370 Info,   Opening controller \\.\/dev/ttyACM0
+2020-09-24 14:22:34.370 Info,     Trying to open serial port \\.\/dev/ttyACM0 (Attempt 1)
+2020-09-24 14:22:34.370 Error, ERROR: Cannot open serial port \\.\/dev/ttyACM0. Error code 3
+
+2020-09-24 14:22:34.371 Info, ERROR: Failed to open serial port \\.\/dev/ttyACM0 (attempt 1)
+2020-09-24 14:22:34.371 Warning, WARNING: Failed to init the controller (attempt 1)
+2020-09-24 14:22:39.372 Info,   Opening controller \\.\/dev/ttyACM0
+2020-09-24 14:22:39.372 Info,     Trying to open serial port \\.\/dev/ttyACM0 (Attempt 1)
+2020-09-24 14:22:39.372 Error, ERROR: Cannot open serial port \\.\/dev/ttyACM0. Error code 3
+
+2020-09-24 14:22:39.372 Info, ERROR: Failed to open serial port \\.\/dev/ttyACM0 (attempt 1)
+2020-09-24 14:22:39.373 Warning, WARNING: Failed to init the controller (attempt 2)
+2020-09-24 14:22:44.373 Info,   Opening controller \\.\/dev/ttyACM0
+2020-09-24 14:22:44.373 Info,     Trying to open serial port \\.\/dev/ttyACM0 (Attempt 1)
+2020-09-24 14:22:44.373 Error, ERROR: Cannot open serial port \\.\/dev/ttyACM0. Error code 3
+
+2020-09-24 14:22:44.373 Info, ERROR: Failed to open serial port \\.\/dev/ttyACM0 (attempt 1)
+2020-09-24 14:22:44.374 Warning, WARNING: Failed to init the controller (attempt 3)
+2020-09-24 14:22:49.374 Info,   Opening controller \\.\/dev/ttyACM0
+2020-09-24 14:22:49.374 Info,     Trying to open serial port \\.\/dev/ttyACM0 (Attempt 1)
+2020-09-24 14:22:49.374 Error, ERROR: Cannot open serial port \\.\/dev/ttyACM0. Error code 3
+
+2020-09-24 14:22:49.374 Info, ERROR: Failed to open serial port \\.\/dev/ttyACM0 (attempt 1)
+2020-09-24 14:22:49.375 Warning, WARNING: Failed to init the controller (attempt 4)
+2020-09-24 14:22:49.375 Detail, contrlr, Notification: DriverFailed
